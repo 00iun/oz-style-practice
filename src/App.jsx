@@ -4,6 +4,7 @@ import Content from "./components/Content";
 import Header from "./components/Header";
 import styled from "styled-components";
 import { flexMixin } from "./components/styled"
+import "./App.css"
 
 // 1. `npm install styled-components` 를 터미널에 입력하여 설치합니다.
 // 2. `npm install & npm run dev` 를 터미널에 입력하여 서버를 실행합니다.
